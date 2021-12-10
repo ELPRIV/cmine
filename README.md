@@ -1,1 +1,1 @@
-style.css and site.webmanifest
+style.css
